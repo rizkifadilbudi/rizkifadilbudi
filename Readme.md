@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Rizki Fadil Budiastanto]
+# 👋 Hi, I'm Rizki Fadil Budiastanto
 
 🎓 Information Technology Student at Universitas Muhammadiyah Yogyakarta  
 💻 Currently learning: React, Express.js, MongoDB  
