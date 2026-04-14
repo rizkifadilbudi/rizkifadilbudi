@@ -63,8 +63,8 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/USERNAME
-- Instagram: https://instagram.com/USERNAME
+- LinkedIn: https://linkedin.com/in/rizki-fadil-budiastanto-784b48353/?skipRedirect=true
+- Instagram: https://instagram.com/rizkyfadil00
 - Portfolio: https://yourwebsite.com
 
 ---
@@ -72,8 +72,6 @@
 ## 🚀 My Projects
 
 - 📌 [Project 1](link) — deskripsi singkat
-- 📌 [Project 2](link) — deskripsi singkat
-- 📌 [Project 3](link) — deskripsi singkat
 
 ---
 
@@ -92,4 +90,4 @@
 
 ---
 
-⭐️ From [rizkifadilbudi](https://github.com/USERNAME_KAMU)
+⭐️ From [rizkifadilbudi](https://github.com/rizkifadilbudi)
