@@ -1,17 +1,17 @@
-# 👋 Hi, I'm [Nama Kamu]
+# 👋 Hi, I'm [Rizki Fadil Budiastanto]
 
-🎓 I'm a student / developer passionate about technology  
-💻 Currently learning: [contoh: Web Development, AI, C++]  
-🚀 Interested in: [AI, Backend, Cybersecurity, dll]
+🎓 Information Technology Student at Universitas Muhammadiyah Yogyakarta  
+💻 Currently learning: React, Express.js, MongoDB  
+🚀 Interested in: Web Development, Backend, AI
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: [Project kamu]
-- 🌱 I’m currently learning: [Skill yang dipelajari]
-- 👯 I’m looking to collaborate on: [Open source / project]
-- 💬 Ask me about: [Topik yang kamu kuasai]
+- 🔭 I'm currently working on: [Project kamu]
+- 🌱 I'm currently learning: React & Backend Development
+- 👯 I'm looking to collaborate on: [Open source / project]
+- 💬 Ask me about: JavaScript, Node.js, Express.js, React, MongoDB
 - ⚡ Fun fact: [Hal unik tentang kamu]
 
 ---
@@ -20,20 +20,26 @@
 
 ### 💻 Languages
 
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-green?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square)
-![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -73,9 +79,10 @@
 
 ## 🧠 Currently Learning
 
-- 📚 Data Structures & Algorithms
+- ⚛️ React Advanced Concepts
+- 🌐 Backend Development with Express.js
+- 🗄️ Database Design with MongoDB
 - 🤖 Artificial Intelligence
-- 🌐 Backend Development
 
 ---
 
@@ -85,4 +92,4 @@
 
 ---
 
-⭐️ From [USERNAME_KAMU](https://github.com/USERNAME_KAMU)
+⭐️ From [rizkifadilbudi](https://github.com/USERNAME_KAMU)
