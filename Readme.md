@@ -86,7 +86,7 @@
 
 ## ✨ Quote
 
-> "Code. Learn. Build. Repeat."
+> "Yang belum imo gapapa, ga semua orang harus imo, tapi saya sudah imo"
 
 ---
 
